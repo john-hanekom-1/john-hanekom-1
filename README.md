@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-hanekom-1&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-hanekom-1&show_icons=true&theme=transparent&rank_icon=percentile&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-hanekom-1&langs_count=5&hide=Nix)
 # Hello! 👋🏻
 ## I am John Hanekom. 😊
